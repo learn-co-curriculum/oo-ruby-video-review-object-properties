@@ -15,4 +15,4 @@ This Q&A led by Avi Flombaum gives a comprehensive review of object properties.
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/ab11lJJKm8M?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-video-review-object-properties'>OO Ruby Video Review: Object Properties</a> on Learn.co and start learning to code for free.</p>
+
