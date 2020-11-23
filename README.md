@@ -8,9 +8,9 @@ This Q&A led by Avi Flombaum gives a comprehensive review of object properties.
 
 - Define local methods specific to an instance.
 - Define instance methods for all instances of a class.
-- Use attr_accessor macro to dynamically add setter and getter methods for our class instances.
+- Use `attr_accessor` macro to dynamically add setter and getter methods for our class instances.
 - Define a class method that will create instance methods for the class from a list of arguments.
-- Write the code behind the attr_accessor class method.
+- Write the code behind the `attr_accessor` class method.
 - Set an instance attribute to a primitive object and a mature object.
 - Configure two classes to collaborate with each other and develop relationships.
 
